@@ -96,7 +96,7 @@ header h1 {
 
 .service p {
     color: #666;
-    font-size: 1.5em; /* Increase font size by 1.5 times */
+    font-size: 1em;
 }
 
 .chat-input {
